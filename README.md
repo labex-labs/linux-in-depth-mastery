@@ -9,8 +9,8 @@ In this course, You will learn Linux in-depth and master Linux skills. After com
 
 ## Scenarios
 
-|   Index | Name                                                | Difficulty   | URL                                                                        |
-|---------|-----------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                               | Difficulty   | URL                                                                        |
+|---------|----------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 📖 Linux Text Display                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271273'>Start Lab</a>       |
 |     002 | 🎯 Linux Enchantment Display                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271272'>Start Challenge</a> |
 |     003 | 📖 Linux Screen Clearing                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271245'>Start Lab</a>       |
