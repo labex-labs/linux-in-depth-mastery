@@ -9,7 +9,7 @@ In this course, You will learn Linux in-depth and master Linux skills. After com
 
 ## Scenarios
 
-|   Index | Name                                               | Difficulty   | URL                                                                        |
+|   Index | Name                                               | Difficulty   | Practice                                                                   |
 |---------|----------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 📖 Linux Text Display                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271273'>Start Lab</a>       |
 |     002 | 🎯 Linux Enchantment Display                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271272'>Start Challenge</a> |
@@ -239,4 +239,9 @@ In this course, You will learn Linux in-depth and master Linux skills. After com
 |     226 | 🎯 Cosmic Data Flow Mastery                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271356'>Start Challenge</a> |
 |     227 | 📖 Linux I/O Redirecting                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271369'>Start Lab</a>       |
 |     228 | 🎯 Magical Potion Mastery with Linux                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271368'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
