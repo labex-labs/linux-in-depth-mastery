@@ -1,6 +1,6 @@
 # Linux In-Depth Mastery
 
-![Linux In-Depth Mastery](https://cover-creator.labex.io/linux-in-depth-mastery.png)
+![Linux In-Depth Mastery](https://cover-creator.appbot.io/linux-in-depth-mastery.png)
 
 In this course, You will learn Linux in-depth and master Linux skills. After completing this course, you will be able to use Linux commands and Linux tools proficiently.
 
