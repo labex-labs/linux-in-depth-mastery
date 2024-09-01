@@ -2,47 +2,38 @@
 
 ![Linux In-Depth Mastery](https://cover-creator.appbot.io/linux-in-depth-mastery.png)
 
-In this course, You will learn Linux in-depth and master Linux skills. After completing this course, you will be able to use Linux commands and Linux tools proficiently.
+In this course, you will gain a comprehensive understanding of Linux and master essential skills, enhancing your chances of securing a job at top IT companies. Each lab encompasses various skills that require practice to excel in Linux mastery. We will continue to provide additional labs in this course.
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
 
 ## Scenarios
 
-|   Index | Name                                                | Difficulty   | Practice                                                             |
-|---------|-----------------------------------------------------|--------------|----------------------------------------------------------------------|
-|      01 | 📖 Discover Linux System Information                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/36'>Start Lab</a>     |
-|      02 | 📖 Connect to Remote                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/34'>Start Lab</a>     |
-|      03 | 📖 Command-Line File Downloading Tools               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/37'>Start Lab</a>     |
-|      04 | 📖 Basic Linux File Operations                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/42'>Start Lab</a>     |
-|      05 | 📖 File and Disk Usage                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38'>Start Lab</a>     |
-|      06 | 📖 Compress and Decompress Files                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/33'>Start Lab</a>     |
-|      07 | 📖 Secure File Transfer Basics                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/40'>Start Lab</a>     |
-|      08 | 📖 Environment Variable and Find Files               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17996'>Start Lab</a>  |
-|      09 | 📖 Linux Logical Commands and Redirection            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48'>Start Lab</a>     |
-|      10 | 📖 Network Information and Test                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/45'>Start Lab</a>     |
-|      11 | 📖 Display OS Info Stylishly with Neofetch           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299825'>Start Lab</a> |
-|      12 | 📖 User Group Management                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/50'>Start Lab</a>     |
-|      13 | 📖 Groups of Linux                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13397'>Start Lab</a>  |
-|      14 | 📖 Background Job Management in Linux                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/43'>Start Lab</a>     |
-|      15 | 📖 Process Management Tools                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/46'>Start Lab</a>     |
-|      16 | 📖 Terminate Processes with kill, killall, and pkill | ★☆☆          | <a target='_blank' href='https://labex.io/labs/44'>Start Lab</a>     |
-|      17 | 📖 Set Up Scheduled Tasks                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/47'>Start Lab</a>     |
-|      18 | 📖 Exploring File Systems with Eza                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295948'>Start Lab</a> |
-|      19 | 📖 Explore Disk Usage with Ncdu                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/296141'>Start Lab</a> |
-|      20 | 📖 Fast Searching With Ripgrep                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/384504'>Start Lab</a> |
-|      21 | 📖 File Structure Visualization With Tre             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/384505'>Start Lab</a> |
-|      22 | 📖 Interactive Process Viewer With Htop              | ★★☆          | <a target='_blank' href='https://labex.io/labs/271667'>Start Lab</a> |
-|      23 | 📖 Count Lines of Code With CLOC                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/273383'>Start Lab</a> |
-|      24 | 📖 Crafting Striking Terminal Text With FIGlet       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272383'>Start Lab</a> |
-|      25 | 📖 Enhance Copying and Moving with Advcpmv           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295937'>Start Lab</a> |
-|      26 | 📖 Download Media with You-Get                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289657'>Start Lab</a> |
-|      27 | 📖 Manage Multiple Terminals With Screen             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271827'>Start Lab</a> |
-|      28 | 📖 Monitor System Resources With Glances             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/384503'>Start Lab</a> |
-|      29 | 📖 Visualize File Differences With Icdiff            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272381'>Start Lab</a> |
-|      30 | 📖 Linux 'jq' Programming                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/279945'>Start Lab</a> |
-|      31 | 📖 Transcribe Media to Text with Whisper             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289658'>Start Lab</a> |
-|      32 | 📖 Linux Deploy LNMP                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7787'>Start Lab</a>   |
+|   Index | Name                                 | Difficulty   | Practice                                                                   |
+|---------|--------------------------------------|--------------|----------------------------------------------------------------------------|
+|      01 | 🎯 Linux Terminal Printing            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/30'>Start Challenge</a>     |
+|      02 | 📖 Discover Linux System Information  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/36'>Start Lab</a>           |
+|      03 | 📖 Connect to Remote                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/34'>Start Lab</a>           |
+|      04 | 🎯 Operate File Contents              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/29'>Start Challenge</a>     |
+|      05 | 🎯 Linux File Handling Commands       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7960'>Start Challenge</a>   |
+|      06 | 📖 Download Files from the Internet   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/387333'>Start Lab</a>       |
+|      07 | 🎯 Special Operations with Files      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8431'>Start Challenge</a>   |
+|      08 | 📖 Secure File Transfer Basics        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/40'>Start Lab</a>           |
+|      09 | 🎯 Stream Editor Sed                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7973'>Start Challenge</a>   |
+|      10 | 🎯 Linux Command Line                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8720'>Start Challenge</a>   |
+|      11 | 🎯 Different File Editing             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8433'>Start Challenge</a>   |
+|      12 | 🎯 Tar and Zip Compression            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/27'>Start Challenge</a>     |
+|      13 | 📖 Logical Commands and Redirection   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/387332'>Start Lab</a>       |
+|      14 | 🎯 Find the Flags                     | ★★☆          | <a target='_blank' href='https://labex.io/labs/7931'>Start Challenge</a>   |
+|      15 | 🎯 File Management Fundamentals       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7779'>Start Challenge</a>   |
+|      16 | 📖 Network Information and Connection | ★☆☆          | <a target='_blank' href='https://labex.io/labs/387338'>Start Lab</a>       |
+|      17 | 📖 Background Job Management          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/43'>Start Lab</a>           |
+|      18 | 📖 Linux Process Management           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/46'>Start Lab</a>           |
+|      19 | 📖 Terminate Processes in Linux       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/44'>Start Lab</a>           |
+|      20 | 📖 Set Up Scheduled Tasks             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/47'>Start Lab</a>           |
+|      21 | 🎯 The Database Cannot Be Started     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/213984'>Start Challenge</a> |
+|      22 | 🎯 Text Manipulation                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7784'>Start Challenge</a>   |
+|      23 | 📖 Linux Deploy LNMP                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7787'>Start Lab</a>         |
 
 ## More
 
