@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                  | Difficulty   | Practice                                                                                                             |
-|---------|---------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                 | Difficulty   | Practice                                                                                                             |
+|---------|--------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
 |      01 | 🎯 Linux Terminal Printing            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-terminal-printing-30'>Start Challenge</a>            |
 |      02 | 📖 Discover Linux System Information  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-discover-linux-system-information-36'>Start Lab</a>        |
 |      03 | 📖 Connect to Remote                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-connect-to-remote-34'>Start Lab</a>                        |
