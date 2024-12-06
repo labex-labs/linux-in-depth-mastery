@@ -1,9 +1,5 @@
 # Linux In-Depth Mastery
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 [![Linux In-Depth Mastery](https://cover-creator.appbot.io/linux-in-depth-mastery.png)](https://labex.io/courses/linux-in-depth-mastery)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/linux-in-depth-mastery)
@@ -57,7 +53,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## More
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [ Free Tutorials](https://github.com/labex-labs/-free-tutorials)
 
